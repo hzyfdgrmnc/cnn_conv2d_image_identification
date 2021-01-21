@@ -67,17 +67,17 @@ html = '''
         padding: 2px; width: 600px;" >
         <img src="{}" style="float: left;" width="150" height="150">
         <div style="padding: 10px 0px 0px 10px; overflow: auto;">           
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
-            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h3>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
+            <h4 style="margin-left: 50px; margin-top: 2px;">{}{}</h4>
         </div>
     </div>
     '''.format(img_dir+"\\"+model_img,
