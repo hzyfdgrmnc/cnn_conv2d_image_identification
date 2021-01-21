@@ -57,7 +57,7 @@ predict_model("makeup","makeup_model.h5",model_img,"has heavy makeup", "has not 
 predict_model("bald","bald_model.h5",model_img,"is bald", "is not bald")
 predict_model("young","young_model.h5",model_img,"is young", "is not young")
 predict_model("wearhat","wearhat_model.h5",model_img,"is wearing a hat", "is not wearing a hat")
-predict_model("mustache","mustache_model.h5",model_img,"has bald", "has not mustache")
+predict_model("mustache","mustache_model.h5",model_img,"has mustache", "has not mustache")
 predict_model("goatee","goatee_model.h5",model_img,"is goatee", "has not goatee")
 predict_model("chubby","chubby_model.h5",model_img,"is chubby", "is not chubby")
 predict_model("wavyhair","wavyhair_model.h5",model_img,"has wavyhair", "has not wavyhair")
